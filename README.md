@@ -1,5 +1,10 @@
 <!-- ============== HEADER ============== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,6,20,24&height=180&section=header&text=NLP%20%C2%B7%20LLM%20Projects&fontSize=40&fontAlign=50&fontAlignY=40&desc=Transformers%20%C2%B7%20RAG%20%C2%B7%20Agents%20%C2%B7%20Semantic%20Search&descAlign=50&descAlignY=70&descSize=14&fontColor=ffffff&animation=fadeIn" alt="NLP LLM Projects header"/>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="100%" alt="NLP & LLM banner"/>
+</div>
+
+<h1 align="center">📚 NLP · LLM Projects</h1>
+<p align="center"><i>Transformers · RAG · Agents · Semantic Search</i></p>
 
 <p align="center">
 A curated index of my NLP, transformer, RAG, and multi-agent LLM work. Ranges from text classification to production RAG pipelines, multi-agent systems, and LLM evaluation. Each card links to a standalone repo with full code and walkthroughs.
